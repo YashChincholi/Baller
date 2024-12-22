@@ -2,7 +2,7 @@
 =======
 <div >
   <br />
-![Baller Banner](/public/Banner.png)
+!Baller Banner
    
   <br />
 
