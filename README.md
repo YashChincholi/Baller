@@ -1,21 +1,18 @@
 <<<<<<< HEAD
-![Baller Banner](./public/banner.png)
 =======
-<div align="center">
+<div >
   <br />
+![Baller Banner](./public/Banner.png)
    
   <br />
->>>>>>> 45838402f7c553297b35f7a721e2e611cd3d9a27
+
 
 # Baller
-
-<<<<<<< HEAD
 ## 📋 Table of Contents
 =======
   <h3 align="center">Modern UI/UX website</h3>
 
 ## 📋 <a name="table">Table of Contents</a>
->>>>>>> 45838402f7c553297b35f7a721e2e611cd3d9a27
 
 1. 🤖 [Introduction](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
@@ -46,7 +43,6 @@ Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exe
 - react-scroll
 
 ## <a name="features">🔋 Features</a>
->>>>>>> 45838402f7c553297b35f7a721e2e611cd3d9a27
 
 👉 **Beautiful Sections**: Includes hero, services, features, how to use, roadmap, pricing, footer, and header.
 
