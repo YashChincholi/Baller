@@ -3,7 +3,11 @@ import styles, { layout } from "../../style";
 const Started = () => (
   <section className={layout.section}>
     <div className={layout.sectionImg}>
-      <img src="/public/hiw3.png" alt="hiw3" className="w-[100%] h-[100%] rounded-3xl" />
+      <img
+        src="/hiw3.png"
+        alt="hiw3"
+        className="w-[100%] h-[100%] rounded-3xl"
+      />
     </div>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>Get started</h2>
